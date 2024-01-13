@@ -259,7 +259,7 @@ body {
 .audio__box {
     text-align: center;
     color: #fff;
-    padding-bottom: 30vh;
+    padding-bottom: 50vh;
 }
 
 .audio__text {
@@ -280,5 +280,21 @@ body {
 .footer {
     padding: 50px 0 40px;
     background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+.footer__text {
+    padding: 20px 0;
+}
+
+.footer__list {
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0 20px;
 
 }
